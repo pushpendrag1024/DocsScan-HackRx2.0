@@ -20,3 +20,4 @@ A pocket scanning tool to enhance quality of a document image.
       <tr><td></td>
   </tr>
 </table>
+<center><b>Contributions are Welcome.</b></center>
